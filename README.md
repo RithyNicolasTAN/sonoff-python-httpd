@@ -47,7 +47,12 @@ I have tested in Python 2 and Python 3, however as we all know there may be some
 
 ## Docker configuration
 
+To write
+
 ## Jeedom Integration
+
+Use plugin "Script"
+To write...
 
 ## Troubleshooting
 
